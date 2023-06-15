@@ -9,3 +9,7 @@
 2. git config --global user.email "$useremail"
 
 Чтобы проверить, запомнил ли Git наши данные, можно ввести команду git config --list
+
+## Инициализация Git
+Чтобы инициализировать git:
+"git init"
